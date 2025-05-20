@@ -13,10 +13,6 @@
   <img src="https://img.shields.io/badge/EJS-Gray?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-github-id/your-screenshot.png" alt="Permalist Screenshot" width="80%" />
-</p>
-
 ---
 
 ## ✨ Overview
